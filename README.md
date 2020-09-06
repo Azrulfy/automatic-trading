@@ -1,1 +1,9 @@
 # automatic-trading
+- data文件夹：存放了原始期货数据的文件夹
+- evaluate文件夹：存放了我们用以测试模型的代码和测试结果
+- img文件夹：存放了根据测试结果绘制的图像
+- stage2文件夹：实际上是stage1，存放了模型训练的第一阶段的代码
+- stage3文件夹：实际上是stage2，存放了模型训练的第二阶段的代码
+- train_data文件夹：存放了模型训练时的信息
+- Env.py：建立虚拟环境的代码
+- optimizer.py：Adam全局优化器
